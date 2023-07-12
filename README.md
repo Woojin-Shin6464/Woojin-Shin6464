@@ -3,6 +3,7 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woojin-Shin6464&exclude_repo=github-readme-stats,Woojin-Shin6464.github.io)
+![Woojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woojin-Shin6464&show_icons=true&theme=radical)
 
 <h3 align="center">:computer: Skill</h3>
 <div align="center">
