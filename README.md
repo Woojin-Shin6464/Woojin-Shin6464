@@ -11,8 +11,6 @@
 <div align="center">
 </div>
 
-* * *
-
 <h3 align="center">:pencil2: Studying</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -22,5 +20,5 @@
 </div>
 
 <div align="right">
-  https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWoojin-Shin6464&count_bg=%2344BEE5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWoojin-Shin6464&count_bg=%2352C7E5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
