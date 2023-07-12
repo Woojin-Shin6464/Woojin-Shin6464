@@ -2,15 +2,15 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woojin-Shin6464&langs_count=8)](https://github.com/Woojin-Shin6464/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Woojin-Shin6464=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
-##:computer: Skill
+<h3 align="center">:computer: Skill</h3>
 <div align="center">
 </div>
 
 <br>
 
-##:pencil2: Studying
+<h3 align="center">:pencil2: Studying</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
