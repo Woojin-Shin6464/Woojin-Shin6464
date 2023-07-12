@@ -2,7 +2,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Woojin-Shin6464=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woojin-Shin6464&exclude_repo=github-readme-stats,Woojin-Shin6464.github.io)
 
 <h3 align="center">:computer: Skill</h3>
 <div align="center">
