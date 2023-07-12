@@ -1,12 +1,13 @@
-### Hi there 👋
+<H1 align="center">🌈 Hi there 👋</H1>
 
 <br>
 
-<div>
+<div align="center">
   <a href="https://github.com/Woojin-Shin6464"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woojin-Shin6464&exclude_repo=github-readme-stats,Woojin-Shin6464.github.io" /></a> 
   <a href="https://github.com/Woojin-Shin6464"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Woojin-Shin6464&show_icons=true&theme=merko" alt="github stats" /></a>
 </div>
 
+<br>
 
 <h3 align="center">:computer: Skill</h3>
 <div align="center">
