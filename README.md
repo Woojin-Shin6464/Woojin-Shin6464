@@ -1,7 +1,5 @@
 <H1 align="center">🌈 Hi there 👋</H1>
 
-* * *
-
 <div align="center">
   <a href="https://github.com/Woojin-Shin6464"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woojin-Shin6464&exclude_repo=github-readme-stats,Woojin-Shin6464.github.io" /></a> 
   <a href="https://github.com/Woojin-Shin6464"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Woojin-Shin6464&show_icons=true&theme=merko" alt="github stats" /></a>
@@ -24,5 +22,5 @@
 </div>
 
 <div align="right">
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWoojin-Shin6464&count_bg=%2344BEE5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWoojin-Shin6464&count_bg=%2344BEE5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false
 </div>
